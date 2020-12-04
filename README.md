@@ -1,6 +1,6 @@
 
 
-#  Display A React Native Snackbar
+#  Elegant Accordion Design Using React Native
   
 
 ![Elegant Accordion Design Using React Native](https://reactnativemaster.com/wp-content/uploads/2020/11/React-Native-Accordion-1160x653.png)
